@@ -22,7 +22,7 @@ var app = new Vue ({
         active: false
       },
       {
-        name: 'weding',
+        name: 'wedding',
         price: 300,
         active: false
       }
